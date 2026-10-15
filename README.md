@@ -21,3 +21,7 @@ The screenshot below records the private GitHub Security Advisory submission, af
 ## Disclosure note
 
 This repository documents the existence and attribution of the report. Technical validation and remediation details are maintained in the coordinated-disclosure channels linked above.
+
+## Reproduction material
+
+A complete, parameterized reproduction guide for an authorized local BeikeShop installation with PayPal Sandbox is available in [`poc/`](./poc/). It includes the capture request and a non-invasive affected-source verifier. No real payment credentials or production target data are included.
